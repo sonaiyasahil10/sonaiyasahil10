@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sonaiyasahil10
-- 👀 I’m interested in Robotics
+- 👀 I’m interested in Robotics and Automation
 -  🌱 I’m currently learning python and ROS 
-- 💞️ I’m looking to collaborate on Python and ROS projects to help myself build a strong foundation.
+- 💞️ I’m looking to collaborate on Python, ROS projects or any Automation projects to help myself build a strong foundation.
 - 📫 How to reach me? Mailid: sonaiyasahil10@gmail.com
 
 <!---
