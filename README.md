@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonaiyasahil10
-- 👀 I’m interested in Software and Robotics
--  🌱 I’m currently learning Python and Full Stack Development
+- 👀 I’m interested in Creative Technology, Automation, Robotics
+-  🌱 I’m currently learning Frontend Development, Python.
 - 📫 How to reach me? Mailid: sonaiyasahil10@gmail.com
 
 <!---
